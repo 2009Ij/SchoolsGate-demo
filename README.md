@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support and questions:
 - Create an issue on GitHub
-- Email: adeoyeiyioluwa@gmail.com 
+- Email: support@schoolsgate.app
 - Documentation: [Coming Soon]
 
 ---
